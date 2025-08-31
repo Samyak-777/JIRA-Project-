@@ -226,3 +226,6 @@ For successful assignment completion, this repository demonstrates:
 5. ✅ **Comprehensive Documentation**: Academic and technical requirements 
 
 **Note**: This project is developed for academic evaluation at VNIT Nagpur and demonstrates practical application of software project management principles using JIRA in conjunction with Python programming.
+
+
+
