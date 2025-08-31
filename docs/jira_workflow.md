@@ -4,7 +4,6 @@ cd JIRA-Project
 
 # Add your files
 cp /path/to/your/find_change.py .
-cp /path/to/your/test_cases.py .
 
 # Commit and push
 git add .
